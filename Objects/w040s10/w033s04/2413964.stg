@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Airport/ndb.ac -32.428244 -3.858386 51.89 180
+OBJECT_SHARED Models/Power/windturbine.xml -32.401466 -3.8362653 15.6 90
+OBJECT_SHARED Models/Communications/vordme_1.xml -32.429319 -3.8702 11.6 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -32.461515 -3.8748564 184.48 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -32.421383 -3.8450354 175.11 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -32.386648 -3.8128136 35.39 0
+OBJECT_SHARED Models/Maritime/Military/Amphibious_assault_ship.xml -32.3969769 -3.8258896 -0.43 210
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -32.4040543 -3.8335031 0.06 128.39
+OBJECT_SHARED Models/Commercial/eolic_roof_fan.xml -32.4282824 -3.8562748 54.66 0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -32.4285249 -3.8560303 54.69 265.1
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -32.42824494 -3.85605017 54.46 265.1
+OBJECT_STATIC SBFN_Antenna.ac -32.4274656 -3.8562204 53.98 353
+OBJECT_STATIC SBFN_Antenna.ac -32.42745441 -3.85630162 54.15 353
+OBJECT_STATIC SBFN_Terminal.ac -32.4282615 -3.8561629 54.55 266.6
+OBJECT_STATIC Lighthouse_Ilha_Rata.xml -32.3866 -3.81286 37.62 180
+OBJECT_STATIC Lighthouse_Alto_Bandeira.xml -32.4485178 -3.8654942 187.71 180
