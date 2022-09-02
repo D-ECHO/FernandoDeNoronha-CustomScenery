@@ -1,0 +1,387 @@
+<ProceduresDB>
+	<Airport ICAOcode="SBFN">
+		
+		<!--RNP RWY 12-->
+
+		<Approach Name="RNP RWY 12 FN361">
+			<App_Waypoint>
+				<Name>FN361</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.7415</Latitude>
+				<Longitude>-32.660916667</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN366</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.844694444</Latitude>
+				<Longitude>-32.550833333</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2530</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN367</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.851083333</Latitude>
+				<Longitude>-32.467694444</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW12</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+		
+		<Approach Name="RNP RWY 12 FN362">
+			<App_Waypoint>
+				<Name>FN362</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.830611111</Latitude>
+				<Longitude>-32.733694444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN366</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.844694444</Latitude>
+				<Longitude>-32.550833333</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2530</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN367</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.851083333</Latitude>
+				<Longitude>-32.467694444</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW12</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+
+		<Approach Name="RNP RWY 12 FN363">
+			<App_Waypoint>
+				<Name>FN363</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.929805556</Latitude>
+				<Longitude>-32.675222222</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN366</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.844694444</Latitude>
+				<Longitude>-32.550833333</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2530</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN367</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.851083333</Latitude>
+				<Longitude>-32.467694444</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW12</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+
+
+
+		<!--RNP RWY 30-->
+
+
+
+		<Approach Name="RNP RWY 30 FN369">
+			<App_Waypoint>
+				<Name>FN369</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.967611111</Latitude>
+				<Longitude>-32.183111111</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN373</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.864472222</Latitude>
+				<Longitude>-32.293194444</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2540</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN374</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.858083333</Latitude>
+				<Longitude>-32.376333333</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW30</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+
+		<Approach Name="RNP RWY 30 FN371">
+			<App_Waypoint>
+				<Name>FN371</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.878472222</Latitude>
+				<Longitude>-32.110305556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN373</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.864472222</Latitude>
+				<Longitude>-32.293194444</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2540</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN374</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.858083333</Latitude>
+				<Longitude>-32.376333333</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW30</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+
+		<Approach Name="RNP RWY 30 FN372">
+			<App_Waypoint>
+				<Name>FN372</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.779305556</Latitude>
+				<Longitude>-32.168777778</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN368</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.870833333</Latitude>
+				<Longitude>-32.210055556</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>3500</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN373</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.864472222</Latitude>
+				<Longitude>-32.293194444</Longitude>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Altitude>2540</Altitude>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN374</Name>
+				<Type>Normal</Type>
+				<Latitude>-3.858083333</Latitude>
+				<Longitude>-32.376333333</Longitude>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>RW30</Name>
+				<Type>Runway</Type>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint>
+				<Name>FN364</Name>
+				<Type>Hold</Type>
+				<Latitude>-3.838277778</Latitude>
+				<Longitude>-32.633944444</Longitude>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>5000</Altitude>
+				<Hld_Turn>Right</Hld_Turn>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+		</Approach>
+
+
+
+		<!--SID-->
+
+
+
+		<Sid Name="MOTLI 1B" Runways="12">
+			<Sid_Waypoint>
+				<Name>(2000+)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>2000</Altitude>
+				<Hdg_Crs>1</Hdg_Crs>
+				<Hdg_Crs_value>114</Hdg_Crs_value>
+			</Sid_Waypoint>
+			<Sid_Waypoint>
+				<Name>FN016</Name>
+				<Type>Normal</Type>
+				<Latitude>-4.422</Latitude>
+				<Longitude>-32.4905</Longitude>
+			</Sid_Waypoint>
+			<Sid_Waypoint>
+				<Name>MOTLI</Name>
+				<Type>Normal</Type>
+				<Latitude>-4.593333333</Latitude>
+				<Longitude>-32.849833333</Longitude>
+			</Sid_Waypoint>
+		</Sid>
+
+		<Sid Name="MOTLI 1C" Runways="30">
+			<Sid_Waypoint>
+				<Name>(2000+)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>2000</Altitude>
+				<Hdg_Crs>1</Hdg_Crs>
+				<Hdg_Crs_value>294</Hdg_Crs_value>
+			</Sid_Waypoint>
+			<Sid_Waypoint>
+				<Name>MOTLI</Name>
+				<Type>Normal</Type>
+				<Latitude>-4.593333333</Latitude>
+				<Longitude>-32.849833333</Longitude>
+			</Sid_Waypoint>
+		</Sid>
+
+
+		<!--<Sid Name="NISBU 1B" Runways="12">
+			<Sid_Waypoint>
+				<Name>(2000+)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>2000</Altitude>
+				<Hdg_Crs>1</Hdg_Crs>
+				<Hdg_Crs_value>114</Hdg_Crs_value>
+			</Sid_Waypoint>
+			<Sid_Waypoint>
+				<Name>NISBU</Name>
+				<Type>Normal</Type>
+				<Latitude>-4.360833333</Latitude>
+				<Longitude>-33.105166667</Longitude>
+			</Sid_Waypoint>
+		</Sid>-->
+
+		<Sid Name="NISBU 1C" Runways="30">
+			<Sid_Waypoint>
+				<Name>(2000+)</Name>
+				<Type>ConstHdgtoAlt</Type>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Altitude>2000</Altitude>
+				<Hdg_Crs>1</Hdg_Crs>
+				<Hdg_Crs_value>294</Hdg_Crs_value>
+			</Sid_Waypoint>
+			<Sid_Waypoint>
+				<Name>NISBU</Name>
+				<Type>Normal</Type>
+				<Latitude>-4.360833333</Latitude>
+				<Longitude>-33.105166667</Longitude>
+			</Sid_Waypoint>
+		</Sid>
+	</Airport>
+</ProceduresDB>
