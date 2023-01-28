@@ -350,6 +350,7 @@
 		</Sid>
 
 
+		<!--Commented out because coordinates for waypoint EDER were not found in the AIP-->
 		<!--<Sid Name="NISBU 1B" Runways="12">
 			<Sid_Waypoint>
 				<Name>(2000+)</Name>
