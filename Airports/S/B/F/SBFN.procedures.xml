@@ -3,7 +3,7 @@
 		
 		<!--RNP RWY 12-->
 
-		<Approach Name="RNP RWY 12 FN361">
+		<Approach Name="FN361">
 			<App_Waypoint>
 				<Name>FN361</Name>
 				<Type>Normal</Type>
@@ -52,7 +52,7 @@
 			</App_Waypoint>
 		</Approach>
 		
-		<Approach Name="RNP RWY 12 FN362">
+		<Approach Name="FN362">
 			<App_Waypoint>
 				<Name>FN362</Name>
 				<Type>Normal</Type>
@@ -101,7 +101,7 @@
 			</App_Waypoint>
 		</Approach>
 
-		<Approach Name="RNP RWY 12 FN363">
+		<Approach Name="FN363">
 			<App_Waypoint>
 				<Name>FN363</Name>
 				<Type>Normal</Type>
@@ -156,7 +156,7 @@
 
 
 
-		<Approach Name="RNP RWY 30 FN369">
+		<Approach Name="FN369">
 			<App_Waypoint>
 				<Name>FN369</Name>
 				<Type>Normal</Type>
@@ -205,7 +205,7 @@
 			</App_Waypoint>
 		</Approach>
 
-		<Approach Name="RNP RWY 30 FN371">
+		<Approach Name="FN371">
 			<App_Waypoint>
 				<Name>FN371</Name>
 				<Type>Normal</Type>
@@ -254,7 +254,7 @@
 			</App_Waypoint>
 		</Approach>
 
-		<Approach Name="RNP RWY 30 FN372">
+		<Approach Name="FN372">
 			<App_Waypoint>
 				<Name>FN372</Name>
 				<Type>Normal</Type>
